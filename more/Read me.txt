@@ -1,0 +1,35 @@
+Administrator's information:
+
+  PassWord": "12345"
+  Email": "Admin@gmail.com"
+
+---------------------------------------------------------
+
+the images shoud be taked from the file  "assets"
+----------------------------------------------------------
+
+the path shoud be like this 
+
+and  the path of file should be F:\XAMPP\htdocs\MSS-media-1
+http://localhost/MSS-media-1/YourFile.php
+
+
+----------------------
+
+and  the path of file should be F:\XAMPP\htdocs\Semi-structure
+http://localhost/Semi-structure/YourFile.php 
+
+
+--------------------------------------------------------
+don't forget to install of the server local xampp 
+and import the database 
+
+
+
+
+
+
+
+
+
+

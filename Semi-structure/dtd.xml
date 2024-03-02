@@ -1,0 +1,25 @@
+<!DOCTYPE users [
+  <!ELEMENT users (User_Id, UserName, Email, Birthdate, Location, Admin, bio, created_at, posts)>
+  <!ELEMENT User_Id (#PCDATA)>
+  <!ELEMENT UserName (#PCDATA)>
+  <!ELEMENT Email (#PCDATA)>
+  <!ELEMENT Birthdate (#PCDATA)>
+  <!ELEMENT Location (#PCDATA)>
+  <!ELEMENT Admin (#PCDATA)>
+  <!ELEMENT bio (#PCDATA)>
+  <!ELEMENT created_at (#PCDATA)>
+
+  <!ELEMENT posts (Post_Id, User_Id, Content, creat_at, created_at, comments)>
+  <!ELEMENT Post_Id (#PCDATA)>
+  <!ELEMENT User_Id (#PCDATA)>
+  <!ELEMENT Content (#PCDATA)>
+  <!ELEMENT creat_at (#PCDATA)>
+  <!ELEMENT created_at (#PCDATA)>
+
+  <!ELEMENT comments (comment_Id, Post_Id, Content, creat_at)>
+  <!ELEMENT comment_Id (#PCDATA)>
+  <!ELEMENT Post_Id (#PCDATA)>
+  <!ELEMENT Content (#PCDATA)>
+  <!ELEMENT creat_at (#PCDATA)>
+]>
+

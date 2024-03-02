@@ -1,0 +1,42 @@
+{
+    "users": [
+        {
+            "User_Id": "65e20ed9238b8",
+            "UserName": "Administratore",
+            "PassWord": "12345",
+            "Email": "Admin@gmail.com",
+            "Birthdate": "12-03-1960",
+            "Location": "Algeria",
+            "Bio": "I m the admin",
+            "Admin": "1",
+            "created_at": "24-03-02 11:56:54",
+            "img": ".\/assets\/user.jpg"
+        },
+        {
+            "User_Id": "65e304e12abc8",
+            "UserName": "Ali",
+            "Email": "Ali@gmail.com",
+            "PassWord": "12345",
+            "Birthdate": "12-14-2003",
+            "Location": "algeria",
+            "Bio": "I am the Ali",
+            "Admin": "0",
+            "Posts": [],
+            "created_at": "24-03-02 11:52:17",
+            "img": ".\/assets\/user.jpg"
+        },
+        {
+            "User_Id": "65e30e1250a32",
+            "UserName": "Ahmed",
+            "Email": "Ahmed@gmail.com",
+            "PassWord": "1234",
+            "Birthdate": "2003-02-06",
+            "Location": "algeria",
+            "Bio": "I amahmed",
+            "Admin": "0",
+            "Posts": [],
+            "created_at": "24-03-02 13:46:41",
+            "img": ".\/assets\/haker.jfif"
+        }
+    ]
+}
